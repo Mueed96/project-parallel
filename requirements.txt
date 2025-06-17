@@ -6,3 +6,5 @@ groq
 PyPDF2
 python-dotenv
 pypdf
+langchain_groq
+
